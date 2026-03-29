@@ -1,0 +1,17 @@
+Lab 03 — Instância Linux na AWS
+
+Ferramentas utilizadas
+AWS EC2
+Ubuntu Server
+PuTTY
+PuTTYgen
+
+Etapas realizadas
+Criação da instância EC2
+Download da chave privada (.pem)
+Conversão da chave para formato .ppk
+Configuração do PuTTY
+Conexão remota à instância
+
+Resultado
+Acesso remoto realizado via SSH a uma instância Ubuntu na AWS.
