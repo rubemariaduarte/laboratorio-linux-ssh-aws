@@ -42,3 +42,47 @@ Instância Linux na AWS EC2
 ## Documentação completa
 
 A documentação técnica detalhada do laboratório está disponível em:
+
+
+---
+
+## Evidências
+
+### Máquina virtual Linux no VirtualBox
+
+![VirtualBox](imagens/virtualbox.png)
+
+### Instância Ubuntu na AWS EC2
+
+![AWS EC2](imagens/aws-ec2.png)
+
+### Serviço SSH no Ubuntu Server
+
+![SSH Ubuntu](imagens/ssh-ubuntu.png)
+
+### Acesso remoto via PuTTY
+
+![PuTTY acesso](imagens/putty-acesso.png)
+
+---
+
+## Aprendizados
+
+Durante o laboratório foram explorados os seguintes conceitos:
+
+- Virtualização de ambientes Linux
+- Configuração de serviços SSH
+- Acesso remoto seguro
+- Uso de autenticação por chave
+- Criação e gerenciamento de instâncias em nuvem
+
+---
+
+## Possíveis melhorias
+
+- Implementar firewall com UFW
+- Desabilitar login SSH por senha
+- Automatizar criação da infraestrutura
+- Monitoramento da instância Linux
+
+
