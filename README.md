@@ -1,7 +1,10 @@
-# Laboratórios de Infraestrutura Linux e Acesso Remoto
+# Laboratório de Infraestrutura Linux e Acesso Remoto
 
-Este repositório apresenta laboratórios práticos de infraestrutura Linux,
-acesso remoto via SSH e utilização de instâncias em nuvem utilizando AWS EC2.
+Este projeto demonstra a criação de um ambiente Linux, configuração de acesso remoto via SSH e conexão a uma instância em nuvem utilizando AWS EC2.
+
+O objetivo é documentar práticas de infraestrutura utilizadas em ambientes de cloud e segurança.
+
+---
 
 ## Tecnologias utilizadas
 
@@ -11,13 +14,31 @@ acesso remoto via SSH e utilização de instâncias em nuvem utilizando AWS EC2.
 - PuTTY
 - AWS EC2
 
-## Laboratórios
+---
 
-1. Setup de ambiente Linux no VirtualBox
-2. Acesso remoto via SSH com PuTTY
-3. Criação e acesso a instância Linux na AWS
+## Etapas do laboratório
+
+1. Criação de máquina virtual Linux utilizando VirtualBox
+2. Instalação do Ubuntu Server
+3. Instalação e configuração do serviço SSH
+4. Acesso remoto via PuTTY
+5. Criação de instância EC2 na AWS
+6. Conexão remota à instância utilizando chave SSH
+
+---
+
+## Arquitetura do laboratório
+
+Linux Server (Ubuntu)  
+↓  
+SSH  
+↓  
+Cliente remoto (PuTTY)  
+↓  
+Instância Linux na AWS EC2
+
+---
 
 ## Documentação completa
 
-A documentação técnica completa do laboratório pode ser acessada aqui:
-
+A documentação técnica detalhada do laboratório está disponível em:
