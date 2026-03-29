@@ -41,7 +41,11 @@ Instância Linux na AWS EC2
 
 ## Documentação completa
 
-A documentação técnica detalhada do laboratório está disponível em:
+A documentação detalhada de cada etapa do laboratório pode ser consultada nos seguintes arquivos:
+
+- [Lab 01 — Setup de ambiente Linux no VirtualBox](Lab%2001%20—%20Setup%20de%20ambiente%20Linux%20no%20VirtualBox)
+- [Lab 02 — Acesso remoto via PuTTY](Lab%2002%20—%20Acesso%20remoto%20via%20PuTTY)
+- [Lab 03 — Instância Linux na AWS](Lab%2003%20—%20Instância%20Linux%20na%20AWS)
 
 
 ---
