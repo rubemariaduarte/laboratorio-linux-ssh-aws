@@ -1,0 +1,35 @@
+# Documentação Técnica do Laboratório Linux e Acesso Remoto
+
+## Objetivo
+
+Demonstrar a criação de um ambiente Linux local, habilitar acesso remoto via SSH e acessar uma instância em nuvem utilizando AWS EC2.
+
+---
+
+# Lab 01 — Setup de ambiente Linux no VirtualBox
+
+## Ferramentas utilizadas
+
+- VirtualBox
+- Ubuntu Server
+- PuTTY
+- PuTTYgen
+
+## Etapas realizadas
+
+1. Instalação do VirtualBox
+2. Criação da máquina virtual Linux
+3. Instalação do Ubuntu Server
+4. Acesso ao terminal do sistema
+
+## Comandos utilizados
+
+sudo apt update
+sudo apt install openssh-server
+systemctl status ssh
+sudo systemctl start ssh
+ip a
+
+Resultado
+
+Ambiente Linux instalado e preparado para acesso remoto.
