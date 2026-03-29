@@ -48,19 +48,11 @@ A documentação técnica detalhada do laboratório está disponível em:
 
 ## Evidências
 
-### Máquina virtual Linux no VirtualBox
-
 ![VirtualBox](imagens/virtualbox.png)
-
-### Instância Ubuntu na AWS EC2
 
 ![AWS EC2](imagens/aws-ec2.png)
 
-### Serviço SSH no Ubuntu Server
-
 ![SSH Ubuntu](imagens/ssh-ubuntu.png)
-
-### Acesso remoto via PuTTY
 
 ![PuTTY acesso](imagens/putty-acesso.png)
 
