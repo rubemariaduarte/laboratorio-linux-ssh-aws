@@ -1,0 +1,9 @@
+Lab 02 — Acesso remoto via PuTTY
+Etapas realizadas
+Abertura do PuTTY
+Inserção do IP da máquina Linux
+Seleção do protocolo SSH
+Autenticação com usuário do sistema
+Resultado
+
+Acesso remoto realizado com sucesso ao servidor Linux.
