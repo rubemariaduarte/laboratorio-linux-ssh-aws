@@ -1,4 +1,4 @@
-# Laboratório de Infraestrutura Linux e Acesso Remoto
+# Laboratórios de Infraestrutura Linux, Acesso Remoto e Computação em Nuvem
 
 Este projeto demonstra a criação de um ambiente Linux, configuração de acesso remoto via SSH e conexão a uma instância em nuvem utilizando AWS EC2.
 
