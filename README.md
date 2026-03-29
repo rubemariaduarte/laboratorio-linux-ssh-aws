@@ -44,6 +44,14 @@ A documentação detalhada de cada etapa do laboratório pode ser consultada nos
 ### Acesso remoto via PuTTY
 ![PuTTY acesso](imagens/putty-acesso.png)
 
+### Serviço SSH no Ubuntu Server
+
+![SSH Ubuntu](imagens/ssh-ubuntu.png)
+
+### Acesso remoto ao Ubuntu via PuTTY (VirtualBox)
+
+![SSH via PuTTY](imagens/putty-virtualbox-ssh.png)
+
 ## Aprendizados
 Durante o laboratório foram explorados os seguintes conceitos:
 
